@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Michael. I'm a PhD candidate at the University of Oklahoma Health Sciences Center College of Pharmacy.
-- 👀 I’m interested in access to care and health outcomes research.
+- 👋 Hi, I’m Michael. I'm a Pharmacist and Health Outcomes Researcher.
 - 🌱 I’m currently learning R and Python and I'm proficient in SAS, Stata, and ArcGIS.
 - 💻: [www.MichaelMNguyen.com](https://www.michaelmnguyen.com)
 - 📧: michael@michaelmnguyen.com
