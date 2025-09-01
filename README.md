@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael. I'm a Pharmacist and Health Outcomes Researcher.
-- 🌱 I’m currently learning R and Python and I'm proficient in SAS, Stata, and ArcGIS.
+- 🌱 I'm proficient in R, Python, SQL, SAS, Stata, ArcGIS.
 - 💻: [www.MichaelMNguyen.com](https://www.michaelmnguyen.com)
 - 📧: michael@michaelmnguyen.com
 - 🔗: [LinkedIn](https://www.linkedin.com/in/michael-nguyen-43978464/)
