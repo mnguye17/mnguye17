@@ -2,7 +2,7 @@
 - 🌱 I'm proficient in R, Python, SQL, SAS, Stata, ArcGIS.
 - 💻: [www.MichaelMNguyen.com](https://www.michaelmnguyen.com)
 - 📧: michael@michaelmnguyen.com
-- 🔗: [LinkedIn](https://www.linkedin.com/in/michael-nguyen-43978464/)
+- 🔗: [LinkedIn](https://www.linkedin.com/in/mnguyenpharmdphd/)
 
 <!---
 mnguye17/mnguye17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
